@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['01121968769']
-global.premium = ['01121968769']
-global.ownernomer = '01121968769'
+global.owner = ['201121968769']
+global.premium = ['201121968769']
+global.ownernomer = '201121968769'
 global.ownername = '🦄bot khufu'
 global.botname = 'Cheems Bot khufu'
 global.footer = 'Bot Inc.'
